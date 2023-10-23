@@ -1,0 +1,65 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 9499649,
+                "file_path": "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-9499649.onnx",
+                "reward": -0.21800005435943604,
+                "creation_time": 1656427235.3162892,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-9499649.pt"
+                ]
+            },
+            {
+                "steps": 9999794,
+                "file_path": "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-9999794.onnx",
+                "reward": -1.202750064432621,
+                "creation_time": 1656427592.2562892,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-9999794.pt"
+                ]
+            },
+            {
+                "steps": 10499770,
+                "file_path": "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-10499770.onnx",
+                "reward": -1.1282982794862044,
+                "creation_time": 1656427934.9817889,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-10499770.pt"
+                ]
+            },
+            {
+                "steps": 10999675,
+                "file_path": "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-10999675.onnx",
+                "reward": -1.0511588947238208,
+                "creation_time": 1656428289.51979,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-10999675.pt"
+                ]
+            },
+            {
+                "steps": 11366322,
+                "file_path": "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-11366322.onnx",
+                "reward": null,
+                "creation_time": 1656428557.156788,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-11366322.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11366322,
+            "file_path": "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent.onnx",
+            "reward": null,
+            "creation_time": 1656428557.156788,
+            "auxillary_file_paths": [
+                "results\\9roads_imitation_2layers_MonzaNewChkptReachRwd\\VehicleAgent\\VehicleAgent-11366322.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}

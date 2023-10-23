@@ -1,0 +1,29 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 274540,
+                "file_path": "results\\Test Run7\\VehicleAgent\\VehicleAgent-274540.onnx",
+                "reward": 0.536675751209259,
+                "creation_time": 1652465584.881881,
+                "auxillary_file_paths": [
+                    "results\\Test Run7\\VehicleAgent\\VehicleAgent-274540.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 274540,
+            "file_path": "results\\Test Run7\\VehicleAgent.onnx",
+            "reward": 0.536675751209259,
+            "creation_time": 1652465584.881881,
+            "auxillary_file_paths": [
+                "results\\Test Run7\\VehicleAgent\\VehicleAgent-274540.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}

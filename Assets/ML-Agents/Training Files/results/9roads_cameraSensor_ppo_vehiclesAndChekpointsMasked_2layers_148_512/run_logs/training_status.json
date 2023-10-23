@@ -1,0 +1,65 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 7499976,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-7499976.onnx",
+                "reward": -0.6855000630021095,
+                "creation_time": 1657798556.524311,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-7499976.pt"
+                ]
+            },
+            {
+                "steps": 7999889,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-7999889.onnx",
+                "reward": -1.0136666774749756,
+                "creation_time": 1657801183.5933733,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-7999889.pt"
+                ]
+            },
+            {
+                "steps": 8499827,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-8499827.onnx",
+                "reward": null,
+                "creation_time": 1657803813.9024076,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-8499827.pt"
+                ]
+            },
+            {
+                "steps": 8999689,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-8999689.onnx",
+                "reward": -1.3039999604225159,
+                "creation_time": 1657806120.1248705,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-8999689.pt"
+                ]
+            },
+            {
+                "steps": 9064893,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-9064893.onnx",
+                "reward": null,
+                "creation_time": 1657806420.4503727,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-9064893.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9064893,
+            "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent.onnx",
+            "reward": null,
+            "creation_time": 1657806420.4503727,
+            "auxillary_file_paths": [
+                "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_2layers_148_512\\VehicleAgent\\VehicleAgent-9064893.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}

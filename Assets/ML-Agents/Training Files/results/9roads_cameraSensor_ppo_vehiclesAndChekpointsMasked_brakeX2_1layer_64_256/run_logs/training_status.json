@@ -1,0 +1,65 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 19999941,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-19999941.onnx",
+                "reward": -0.9631874673068523,
+                "creation_time": 1657715784.3945003,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-19999941.pt"
+                ]
+            },
+            {
+                "steps": 20499775,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-20499775.onnx",
+                "reward": -0.9509444236755371,
+                "creation_time": 1657718147.673574,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-20499775.pt"
+                ]
+            },
+            {
+                "steps": 20999973,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-20999973.onnx",
+                "reward": -0.5533749759197235,
+                "creation_time": 1657720511.478074,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-20999973.pt"
+                ]
+            },
+            {
+                "steps": 21499934,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-21499934.onnx",
+                "reward": 0.8220000267028809,
+                "creation_time": 1657722687.5965195,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-21499934.pt"
+                ]
+            },
+            {
+                "steps": 21562108,
+                "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-21562108.onnx",
+                "reward": null,
+                "creation_time": 1657722999.5416493,
+                "auxillary_file_paths": [
+                    "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-21562108.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 21562108,
+            "file_path": "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent.onnx",
+            "reward": null,
+            "creation_time": 1657722999.5416493,
+            "auxillary_file_paths": [
+                "results\\9roads_cameraSensor_ppo_vehiclesAndChekpointsMasked_brakeX2_1layer_64_256\\VehicleAgent\\VehicleAgent-21562108.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}

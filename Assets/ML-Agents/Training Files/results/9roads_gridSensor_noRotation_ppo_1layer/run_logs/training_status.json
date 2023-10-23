@@ -1,0 +1,65 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 15499815,
+                "file_path": "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-15499815.onnx",
+                "reward": null,
+                "creation_time": 1658209110.6642594,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-15499815.pt"
+                ]
+            },
+            {
+                "steps": 15999863,
+                "file_path": "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-15999863.onnx",
+                "reward": null,
+                "creation_time": 1658211314.4667587,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-15999863.pt"
+                ]
+            },
+            {
+                "steps": 16499686,
+                "file_path": "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-16499686.onnx",
+                "reward": null,
+                "creation_time": 1658213500.9562593,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-16499686.pt"
+                ]
+            },
+            {
+                "steps": 16999819,
+                "file_path": "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-16999819.onnx",
+                "reward": 0.7569999694824219,
+                "creation_time": 1658215704.4625654,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-16999819.pt"
+                ]
+            },
+            {
+                "steps": 17067449,
+                "file_path": "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-17067449.onnx",
+                "reward": null,
+                "creation_time": 1658216000.7525659,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-17067449.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 17067449,
+            "file_path": "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent.onnx",
+            "reward": null,
+            "creation_time": 1658216000.7525659,
+            "auxillary_file_paths": [
+                "results\\9roads_gridSensor_noRotation_ppo_1layer\\VehicleAgent\\VehicleAgent-17067449.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}

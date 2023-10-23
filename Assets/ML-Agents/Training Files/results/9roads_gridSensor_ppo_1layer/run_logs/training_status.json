@@ -1,0 +1,65 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 24999810,
+                "file_path": "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-24999810.onnx",
+                "reward": null,
+                "creation_time": 1658040338.0524495,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-24999810.pt"
+                ]
+            },
+            {
+                "steps": 25499939,
+                "file_path": "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-25499939.onnx",
+                "reward": null,
+                "creation_time": 1658042667.3544483,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-25499939.pt"
+                ]
+            },
+            {
+                "steps": 25999950,
+                "file_path": "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-25999950.onnx",
+                "reward": 0.7680000364780426,
+                "creation_time": 1658044996.180448,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-25999950.pt"
+                ]
+            },
+            {
+                "steps": 26499941,
+                "file_path": "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-26499941.onnx",
+                "reward": 0.6609999537467957,
+                "creation_time": 1658047320.4559484,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-26499941.pt"
+                ]
+            },
+            {
+                "steps": 26502453,
+                "file_path": "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-26502453.onnx",
+                "reward": null,
+                "creation_time": 1658047335.0089476,
+                "auxillary_file_paths": [
+                    "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-26502453.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 26502453,
+            "file_path": "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent.onnx",
+            "reward": null,
+            "creation_time": 1658047335.0089476,
+            "auxillary_file_paths": [
+                "results\\9roads_gridSensor_ppo_1layer\\VehicleAgent\\VehicleAgent-26502453.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}

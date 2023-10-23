@@ -1,0 +1,65 @@
+{
+    "VehicleAgent": {
+        "checkpoints": [
+            {
+                "steps": 4999902,
+                "file_path": "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-4999902.onnx",
+                "reward": -0.715272763913328,
+                "creation_time": 1656587247.600657,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-4999902.pt"
+                ]
+            },
+            {
+                "steps": 5499765,
+                "file_path": "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-5499765.onnx",
+                "reward": 0.23399998247623444,
+                "creation_time": 1656587846.133656,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-5499765.pt"
+                ]
+            },
+            {
+                "steps": 5999729,
+                "file_path": "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-5999729.onnx",
+                "reward": -0.7960476474392981,
+                "creation_time": 1656588438.3346584,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-5999729.pt"
+                ]
+            },
+            {
+                "steps": 6499904,
+                "file_path": "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-6499904.onnx",
+                "reward": -0.5606000304222107,
+                "creation_time": 1656589716.2126694,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-6499904.pt"
+                ]
+            },
+            {
+                "steps": 6561159,
+                "file_path": "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-6561159.onnx",
+                "reward": null,
+                "creation_time": 1656589754.6971688,
+                "auxillary_file_paths": [
+                    "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-6561159.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6561159,
+            "file_path": "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent.onnx",
+            "reward": null,
+            "creation_time": 1656589754.6971688,
+            "auxillary_file_paths": [
+                "results\\9roads_imitation_6epoch-2048buffer\\VehicleAgent\\VehicleAgent-6561159.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}
